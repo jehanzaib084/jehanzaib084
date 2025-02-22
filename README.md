@@ -3,7 +3,7 @@
 Hi, I'm Muhammad Jehanzaib 👋, a passionate **Full-Stack Web Developer** and **Android App Developer**. I love building scalable web applications and mobile apps using modern technologies.
 
 ## 💫 About Me:
-🔭 I’m currently working on enhancing my **frontend and backend skills.**<br>🌱 I’m currently learning **Flutter, advanced React, and cloud deployment strategies.**<br>🤝 I’m looking for help with **advanced Flutter animations and state management.**<br>👯 I’m looking to collaborate on **full-stack projects, mobile apps, and cloud-based applications.**<br>💬 Ask me about **Node.js, RESTful APIs, database management, and payment integrations.**<br>📫 How to reach me: muhammadjehanzaib2021@gmail.com<br>⚡ Fun fact: **I think I am funny.**
+🔭 I’m currently working on enhancing my **frontend and backend skills.**<br>🌱 I’m currently learning **Flutter, advanced React, and cloud deployment strategies.**<br>🤝 I’m looking for help with **advanced Flutter animations and state management.**<br>👯 I’m looking to collaborate on **full-stack projects, mobile apps, and cloud-based applications.**<br>💬 Ask me about **Node.js, RESTful APIs, and Ai integration.**<br>📫 How to reach me: muhammadjehanzaib2021@gmail.com<br>⚡ Fun fact: **I think I am funny.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jehanzaib-javed) 
