@@ -1,6 +1,6 @@
 # 🚀 Full-Stack Web Developer
 
-Hi, I'm Muhammad Jehanzaib 👋 — a passionate **Full-Stack Web Developer** and **Android App Developer** with a focus on building scalable, optimized applications using modern technologies.
+Hi, I'm Muhammad Jehanzaib 👋 — a passionate **Full-Stack Web Developer** with a focus on building scalable, optimized applications using modern technologies.
 
 ## 💫 About Me:
 🔭 I’m currently specializing in **Next.js (App Router)** with **advanced SSG/SSR optimization** techniques.<br>
